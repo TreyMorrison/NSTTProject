@@ -24,7 +24,7 @@ CREATE TABLE rapStats (
 
   uWordsProp FLOAT(11),
 
-  mysteryNumSongs FLOAT(11),
+  averageNumSongs FLOAT(11),
 
   wordsPerSongProp FLOAT(11),
 
